@@ -23,6 +23,7 @@
 <main>
 	<!-- CREAR BOTÓ QUE EXECUTI FUNCIÓ -->
     <p>------------------------------------------------------</p>
+    <h3>BUTTONS:</h3>
     <p>This is a button that counts the time you click:</p>
     <p>When at 10, it resets.</p>
     <p>{resta} Clicks to 10!</p>
